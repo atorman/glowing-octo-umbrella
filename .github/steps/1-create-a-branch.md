@@ -1,4 +1,4 @@
-## Step 1: Create a branch
+## Step 1: Create an olive branch
 
 _Welcome to "Introduction to GitHub"! :wave:_
 
